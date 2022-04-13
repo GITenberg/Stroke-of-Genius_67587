@@ -1,0 +1,42 @@
+_repo: Stroke-of-Genius_67587
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Phillips, R.
+    gutenberg_agent_id: '54318'
+    url: http://www.gutenberg.org/2009/agents/54318
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garret, Randall
+    - Garrett, Gordon Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2022-03-08'
+identifiers:
+  gutenberg: '67587'
+language: en
+pgterms:marc905: 20220212094542garrett
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Robots, Industrial -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Murderers -- Fiction'
+- GITenberg
+title: Stroke of Genius
+url: http://www.gutenberg.org/ebooks/67587
