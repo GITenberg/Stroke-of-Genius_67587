@@ -5,6 +5,9 @@ contributor:
     agent_name: Phillips, R.
     gutenberg_agent_id: '54318'
     url: http://www.gutenberg.org/2009/agents/54318
+covers:
+- cover_type: archival
+  image_path: 67587-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Randall
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Randall_Garrett
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67587#Stroke-of-Genius
 gutenberg_issued: '2022-03-08'
 identifiers:
   gutenberg: '67587'
